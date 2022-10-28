@@ -20,4 +20,4 @@ ALIGN= IZQUIERDA DERECHA
 * falta mapa
 
 *falta login y register (html==>link)
-* mediaqueries #caracteristicas, navbar, and buttonS
+* mediaqueries #caracteristicas, navbar, and buttonS.
