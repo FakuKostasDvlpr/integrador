@@ -21,3 +21,5 @@ ALIGN= IZQUIERDA DERECHA
 
 *falta login y register (html==>link)
 * mediaqueries #caracteristicas, navbar, and buttonS.
+
+Register= momi
