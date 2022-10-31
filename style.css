@@ -152,6 +152,7 @@ header a:hover {
   background-color: rgba(30, 30, 30, 30);
   color: white;
   text-align: center;
+  margin: auto;
 }
 
 #nuestros-programas .container {
@@ -171,7 +172,6 @@ header a:hover {
 #nuestros-programas .carta {
   background-position: center center;
   background-size: cover;
-  padding: 50px;
   margin: 40px;
   border-radius: 15px;
 }
@@ -261,11 +261,10 @@ footer .container {
     justify-content: space-between;
   }
 
-  header .navbar {
+  header nav {
     flex-direction: row;
     padding-bottom: 0;
     padding-right: 40px;
-    /* display: none;   MIRAR CODIGO! */
   }
 
   #hero h1 {
@@ -308,6 +307,7 @@ footer .container {
   #nuestros-programas .programas {
     display: flex;
     justify-content: center;
+   
   }
 
   #nuestros-programas p {
